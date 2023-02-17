@@ -4,7 +4,9 @@
 
 
 ![logo](https://github.com/mumal885/Calculator/blob/main/ca.png)
-#Calculator
+
+
+# Calculator
 This Calculator is coded in html, css,js.
 
 
